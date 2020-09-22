@@ -1,8 +1,18 @@
-# HelloWorld
-## Intelligent Mobile Developemnt Course
 
-I plan to build an e-learning application focusing on Introdution to Computer programming in python for beginners.This will make learning easier for many as it will comprise of both tutorial contents and pop quizzes.I plan to have it as an opensource project in the future allow other developers especially from my home country to contribute and even make it a better experience for the next generation.
+# Intelligent Mobile Developemnt Course
+
+### E-Commerce Application for AmarkFasion
+
+My project for the Intelliget Mobile Developement Course will be to develop an e-commerce app for my personal online business "Amarkfashion". I currently have a website and i would like to decouple it with mobile application system for both Andriod and IOS. I will be using Flutter mobile development framework on Andriod studio and Programming in Dart.
+
+## Objectives
+Is to promote online selling in my home country "The Gambia" and introduce an application that 
 
 
-My second option would be an ecommerce mobile application if time allows me.This is something i have wanted to work on for my personal project 'Amarkfashion' i have a website already created for it i plan to work on the mobile application. For customers to purchase on the app , add to cart and have their own account with payment methods such as paypal and Visacard.May need advice from Laoshi.
+## Main Functionalities
+
+1.For customers to purchase on the app 
+2. Add to cart 
+3. User accounts
+4. Payment methods such as paypal and Visacard
 
