@@ -129,7 +129,7 @@ The MaterialMe app is a mock sports-news app designed using Material Design feat
 
 ## Codelab 7.2 - AsyncTask & AsyncTaskLoader 
 
-![alt text](./assets/bookSearch.png)
+![alt text](./assets/booksearch.png)
 <br>
 
 ### Description
