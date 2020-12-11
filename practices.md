@@ -6,7 +6,7 @@
  
 ## Codelab 1.1 - Hello World 
 
-![alt text](./assets/helloworld.png)
+![alt text](./assets/hello.png)
 <br>
 
 ### Description
@@ -129,7 +129,7 @@ The MaterialMe app is a mock sports-news app designed using Material Design feat
 
 ## Codelab 7.2 - AsyncTask & AsyncTaskLoader 
 
-![alt text](./assets/booksearch.png)
+![alt text](./assets/bookSearch.png)
 <br>
 
 ### Description
