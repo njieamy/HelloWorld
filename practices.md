@@ -11,7 +11,7 @@
 
 ### Description
 <br>
-After successfully installing Android Studio, I created a new project for the Hello World app. The app simply displays the string "Hello World" on the screen of the Android virtual or physical device <br>
+After successfully installing Android Studio, I created a new project for the Hello World app. The app simply displays the string "Hello World" on the screen of the Android Emulator or physical device <br>
 
 ***************************************************************************
 
