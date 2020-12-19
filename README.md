@@ -3,7 +3,7 @@
 
 ## Introduction
 
- I plan to develop Daily Plan is an andriod CRUD application created for users to be able to manage their daily or weekly tasks. Users will be able to add a new task , edit , update and delete tasks.
+ I plan to develop Daily Plan an andriod CRUD application created for users to be able to manage their daily or weekly tasks. Users will be able to add a new task , edit , update and delete tasks.
  
  The app is made with Recycler View, Card View, and uses the SQLite database to store tasks locally.
 
