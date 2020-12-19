@@ -1,18 +1,24 @@
 
 # Intelligent Mobile Developemnt Course
 
-### E-Commerce Application for AmarkFasion
+## Introduction
 
-My project for the Intelliget Mobile Developement Course will be to develop an e-commerce app for my personal online business "Amarkfashion". I currently have a website and i would like to build and deploy a mbile application version for for both Andriod and IOS. I will be using Flutter on Andriod studio , Flutter is an open-source UI software development kit created by Google and the Programming language used here is Dart.
+ I plan to develop Daily Plan is an andriod CRUD application created for users to be able to manage their daily or weekly tasks. Users will be able to add a new task , edit , update and delete tasks.
+ 
+ The app is made with Recycler View, Card View, and uses the SQLite database to store tasks locally.
+
 
 ## Objectives
-Is to promote secure and safe online selling in my home country "The Gambia" and meeting customer needs.
+Enable users to record and keep track of their day to day activities.
 
 
-## Main Functionality
+## Main Functionality & features
+1. Creating, updating and deleting daily task <br>
+2. creating for left and right swipes to edit and delete tasks<br>
+3. Creating a task with a Fab add button at the bottom corner of the application  <br>
+4. SQlite database to store & retrieve data<br>
+5. Recylcer View & Card View
 
-1. For customers to purchase on the app <br>
-2. Adding to cart <br>
-3. User accounts <br>
-4. Payment methods such as paypal and Visacard <br>
-
+## Design
+### Wireframe
+![alt text](./assets/wireframe.png)
